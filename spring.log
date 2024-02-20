@@ -1,0 +1,8 @@
+2024-01-11T16:00:03.169+03:00  INFO 10248 --- [restartedMain] c.e.d.database.pool.ConnectionPool       : Init connection pool
+2024-01-11T16:00:03.174+03:00  INFO 10248 --- [restartedMain] c.e.d.database.pool.ConnectionPool       : Init connection pool
+2024-01-11T16:00:03.175+03:00  INFO 10248 --- [restartedMain] c.e.d.database.pool.ConnectionPool       : Init connection pool
+2024-01-11T16:00:03.181+03:00  WARN 10248 --- [restartedMain] c.e.d.d.repository.CompanyRepository     : init company repository
+2024-01-11T16:00:03.184+03:00  WARN 10248 --- [restartedMain] c.e.d.d.repository.CompanyRepository     : init company repository
+2024-01-11T16:00:08.864+03:00  INFO 10248 --- [Thread-11] c.e.d.database.pool.ConnectionPool       : Clean connection pool
+2024-01-11T16:00:08.864+03:00  INFO 10248 --- [Thread-11] c.e.d.database.pool.ConnectionPool       : Clean connection pool
+2024-01-11T16:00:08.864+03:00  INFO 10248 --- [Thread-11] c.e.d.database.pool.ConnectionPool       : Clean connection pool

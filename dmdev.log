@@ -1,0 +1,16 @@
+2024-01-11T16:00:09.371+03:00  INFO 10248 --- [restartedMain] c.e.d.database.pool.ConnectionPool       : Init connection pool
+2024-01-11T16:00:09.377+03:00  INFO 10248 --- [restartedMain] c.e.d.database.pool.ConnectionPool       : Init connection pool
+2024-01-11T16:00:09.379+03:00  INFO 10248 --- [restartedMain] c.e.d.database.pool.ConnectionPool       : Init connection pool
+2024-01-11T16:00:09.382+03:00  WARN 10248 --- [restartedMain] c.e.d.d.repository.CompanyRepository     : init company repository
+2024-01-11T16:00:09.387+03:00  WARN 10248 --- [restartedMain] c.e.d.d.repository.CompanyRepository     : init company repository
+2024-01-11T16:00:21.611+03:00  INFO 10248 --- [SpringApplicationShutdownHook] c.e.d.database.pool.ConnectionPool       : Clean connection pool
+2024-01-11T16:00:21.612+03:00  INFO 10248 --- [SpringApplicationShutdownHook] c.e.d.database.pool.ConnectionPool       : Clean connection pool
+2024-01-11T16:00:21.613+03:00  INFO 10248 --- [SpringApplicationShutdownHook] c.e.d.database.pool.ConnectionPool       : Clean connection pool
+2024-01-11T16:00:26.330+03:00  INFO 1476 --- [restartedMain] c.e.d.database.pool.ConnectionPool       : Init connection pool
+2024-01-11T16:00:26.363+03:00  INFO 1476 --- [restartedMain] c.e.d.database.pool.ConnectionPool       : Init connection pool
+2024-01-11T16:00:26.364+03:00  INFO 1476 --- [restartedMain] c.e.d.database.pool.ConnectionPool       : Init connection pool
+2024-01-11T16:00:26.376+03:00  WARN 1476 --- [restartedMain] c.e.d.d.repository.CompanyRepository     : init company repository
+2024-01-11T16:00:26.389+03:00  WARN 1476 --- [restartedMain] c.e.d.d.repository.CompanyRepository     : init company repository
+2024-01-11T16:02:39.864+03:00  INFO 1476 --- [Thread-5] c.e.d.database.pool.ConnectionPool       : Clean connection pool
+2024-01-11T16:02:39.865+03:00  INFO 1476 --- [Thread-5] c.e.d.database.pool.ConnectionPool       : Clean connection pool
+2024-01-11T16:02:39.865+03:00  INFO 1476 --- [Thread-5] c.e.d.database.pool.ConnectionPool       : Clean connection pool
